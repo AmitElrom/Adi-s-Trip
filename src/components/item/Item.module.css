@@ -1,0 +1,10 @@
+.img {
+  object-fit: cover;
+  width: 30%;
+  margin: 1.5rem;
+  border-radius: 18px;
+}
+
+.img:hover {
+  scale: 1.05;
+}
