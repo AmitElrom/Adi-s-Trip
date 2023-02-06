@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import ReactPlayer from "react-player";
 
 import classes from "./Item.module.css";
 

@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Assistant&display=swap");
 
+html,
+body {
+  background-image: url(./assets/amitelrom_website_background_image_features_of_Vietnam_and_Laos_81b49f87-fc61-4e93-8231-512872b0541e.png);
+}
+
 body {
   margin: 0;
   direction: rtl;
